@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Server\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_1a87e289f22ab90307763c485b7c9d4c6584974f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="181c16bca9b39b5540351dbe7bc51cf801525058">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_577829165ff55fa9f78be2ea176b0963ce535d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_66bbaee158cf9adb1345a72cbcc7eeee12ed9ee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5873f5bf05f9f19d44fdcc6101f3ffd5ea30d1df">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5b895a1f0e837b443d4faacc914fe4a4a2e53572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_8b6ff6488f44d5017e000cefd21285f55c3b531a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Server\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_c2f09c9092030da58f194bb8023233c026a07061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_53bae64cc0dc64b435a5fd6096f3a44f01913338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.5.1_f158aa8bf553541cc78ee2ea1d56dde4b0d0fc1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_e37539b87e65d06fe2a8243d81a73779f57b15ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_080227afcf06202af5bebff77fab498df887f2cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_ea371b1f489872442b3a00e66daf411672261e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_33df8a2e99eb35527821c4ddf0fe13712f816798\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_8b8e1ec7bcf5061042d0a01bcbdb59fd6e646040\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android Project\RollAnimation\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\Android Project\RollAnimation\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_1aa9d5dd8e9c7f98e639829f5a454fb558a7fb9c\classes.dex" />
+    </item>
+
+</items>
